@@ -3,7 +3,7 @@
 
 **The projects I worked on are listed below.**
 
-##  [Projet One](https://github.com/FTANKRA/Foster-Twumasi-Ankra)  
+##  [Project One](https://github.com/FTANKRA/Foster-Twumasi-Ankra)  
 An Exploratory Data Analysis on South Africa Crime Statistics data. 
 
 In this project, basic python operations and EDAs were used. Some of these operations are outlined below.
@@ -21,7 +21,7 @@ In this project, basic python operations and EDAs were used. Some of these opera
         6. Correlations.
 
 
-## [Projet Two](https://github.com/FTANKRA/Sendy-Logistics-Challenge) 
+## [Project Two](https://github.com/FTANKRA/Sendy-Logistics-Challenge) 
 In this project Estimated Time of Arrival for Sendy Logistics, a company in Nairobi is predicted using Linear Regression. 
 
   The main techniques used in this project are:
@@ -35,7 +35,7 @@ In this project Estimated Time of Arrival for Sendy Logistics, a company in Nair
         4. Evaluating regression model using MSE and RMSE.
 
 
-## [Projet Three](https://github.com/FTANKRA/Classification) 
+## [Project Three](https://github.com/FTANKRA/Classification) 
  The goal of this project is to design a staff promotion algorithm using various classification algorithms
 
   Below are the algorithms used in the classification:
