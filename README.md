@@ -4,9 +4,9 @@
 **The projects I worked on are listed below.**
 
 ##  [Projet One](https://github.com/FTANKRA/Foster-Twumasi-Ankra)  
-- An Exploratory Data Analysis on South Africa Crime Statistics data. 
+An Exploratory Data Analysis on South Africa Crime Statistics data. 
 
-  In this project, basic python operations and EDAs were used. Some of these operations are outlined below.
+In this project, basic python operations and EDAs were used. Some of these operations are outlined below.
 
         1. Joining datasets.
 
